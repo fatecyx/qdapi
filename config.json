@@ -1,7 +1,7 @@
 [
   {
-    "QdInfo": "2ctU5FH/7qxSHmzxdRMsmAVlGoRpsOBc8fgFMl/vDEcHg29BAj2yNEWf/qAP+M9kfY2RxLj6bpZckAQkDKQjU/S8KOlheMK5B1RsBQ7zOREykwivyQX4Ky3wIZ+6B4NFl8rMbPg5rX3ExZv/rMrNMrPlSue6Uz+NP4nHzkEgBrV++3CsV4oeEKnxn/zMA78uHcYR2m9fR85cd298KGTl0rW0ImbaVVm7LkMvRu9dpI5a/edb2WepebFJRcMNey4VKGWDINy5qkUIRLy/BDdCX0vWUP5d1bfdjas1HZIcKSRHQsCsNkxoWvFd0N5WayXLP1KQKHmwwzvhKsPvvsXDErVdC3hhRUSAHCKDxwa9sbU6EUNmBR01Kw==",
-    "SdkSign": "fwU0VSlfsV8DX/PgTz48WLLrO/PBY1CkfQD+W9PBSk891S5f1scaTKUxMpma 64o0Z4AobeI9b1PJrthgrxZ5HD4h+pKQCbprVDDBnYDO1Sud/4+NmkwYk1U+ 4APjJhiN7KYZ2jJlhvhHdTq8BnkfnuJFtXvz+O4zt1rhGWw2ADFctoDHvNQD IF4zuPdJaKbaw/l53GrmjzQ=",
+    "QdInfo": "2ctU5FH/7qxSHmzxdRMsmAVlGoRpsOBc8fgFMl/vDEcHg29BAj2yNOytqv/e7DTRwCUwE4C8XcW5OG4NGC9wvtZdYfV6MTJp1EhxJRU+vqZGNsXmYG01H2EE5c531idlP31j5wEO4PdK+y4zsARGmRFEQyyVML1HsCW951qqxviI1wIyvvG3IG/H23d16T1gpswqAnDKHna7nrWuQQPEKfA1sdSKaPtBno55tfCCNNK1oo/mhlWA7mF/lQ7XdsPGa1XjlA47n5MRzl0NqtvXuGTlcE8L2uX14u0okXkD9QpcEOR5dMDa0bxON0pNa5obJ6n6Tv4S5jvmO5cJOL4i70rw1yAGSS4l6uUQHCmRrzueJ3Wjg84XCQ==",
+    "SdkSign": "fwU0VSlfsV9boLwdRxTi/iAV4mvY/AvOmowWanrgkMUCfVXaTmkWhcUgq3bC bYMA+S2lP1fojfA+ArydYSC6dWOv/WSSDQ9SYJEkVymPks8qQQeT42z9Bwxx 3ztZp9x+7bpHzyrrL3HTWG5rjB6uxtaR0cStiiaTSWCYy+jBKLsu5jjTyPkq oP0XGsErtJhBa5f34x8AhCw=",
     "YwKey": "yknOVBh15Qbf",
     "YwGuid": "110852726",
     "TaskType": [
@@ -10,6 +10,17 @@
       3,
       4
     ]
+  },
+  {
+    "QdInfo": "2ctU5FH/7qxSHmzxdRMsmAVlGoRpsOBc8fgFMl/vDEcHg29BAj2yNOytqv/e7DTRwCUwE4C8XcW5OG4NGC9wvtZdYfV6MTJp1EhxJRU+vqZGNsXmYG01H5lzoAQH1YPqDIZxMyE5VHbdV3AIV9JLl59pHNxOOzeep8HfEE4S9a0HjN0ZV0Y/P2RpcABO+IPgYTRXzejczzR6+kXkSdG5SUTKkWTN8OQEt89WjutYithalT852jSxOnzYbioqvbEZbgEcEF8yiW/ShSQY7WhwkQtQ4EIZi5wB8MGEmamczYnTyeOK9XqzGvmFQEheS5WSMvPJBu+23FJ45rb0KAyvborPnCWzun5FtRItrogiaDyBdv3L9tOXqg==",
+    "SdkSign": "fwU0VSlfsV9boLwdRxTi/tyFy3fUb4BflCTBEeyZCR79YsRpGfQlxYmLjaGo xxYiEThELOhrR2q08zN3XSVmaQ13cCy7LpGOLldVrBdcDlOiCroU8DzmH4A9 P+pfVNtGLSHZAliBFlxlDaZjt4qGHTKR14aPCiw0SNwUfEZlutym5AdMRgJd XdqoV55fAiJGIP7nRI0kEWY=",
+    "YwKey": "yktODoMZMcua",
+    "YwGuid": "855119830787",
+    "TaskType": [
+      1,
+      2,
+      3,
+      4
+    ]
   }
 ]
-
